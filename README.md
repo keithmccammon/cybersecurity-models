@@ -32,6 +32,8 @@ A collection of models for organizing, prioritizing, and understanding cybersecu
 
 [Cybersecurity Maturity Model Certification](https://dodcio.defense.gov/CMMC/), by the United States Department of Defense (DoD)
 
+[Detection Engineering Maturity Model](https://detectionengineering.io/) by Kyle Bailey
+
 [Security Incident Management Maturity Model](https://opencsirt.org/csirt-maturity/sim3-and-references/), by the Open CSIRT Foundation
 
 [Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model) by the Cybersecurity & Infrastructure Security Agency (CISA)
