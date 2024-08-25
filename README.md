@@ -17,6 +17,8 @@ A collection of models for organizing, prioritizing, and understanding cybersecu
 [D3FEND](https://d3fend.mitre.org/) by the MITRE Corporation 
 
 [Diamond Model](https://apps.dtic.mil/sti/pdfs/ADA586960.pdf) by the United States Department of Defense (DoD)
+
+[SaaS Attacks](https://github.com/pushsecurity/saas-attacks) by Push Security
  
 ## Maturity models
 
