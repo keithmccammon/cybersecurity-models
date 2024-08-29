@@ -10,6 +10,8 @@ A collection of models for organizing, prioritizing, and understanding cybersecu
 
 ## Intrusion and/or adversary analysis models
 
+[AI Risk Repository](https://airisk.mit.edu/) by MIT
+
 [ATLAS](https://atlas.mitre.org/) by the MITRE Corporation
 
 [ATT&CK](https://attack.mitre.org/) by the MITRE Corporation
