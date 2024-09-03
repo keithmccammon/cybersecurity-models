@@ -44,6 +44,18 @@ A collection of models for organizing, prioritizing, and understanding cybersecu
 
 [Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model) by the Cybersecurity & Infrastructure Security Agency (CISA)
 
+## Shared responsibility models
+
+[Artificial intelligence (AI) shared responsibility model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai) by Microsoft
+
+[AI Security Shared Responsibility Model](https://www.returnonsecurity.com/p/ai-security-shared-responsibility-model-navigating-risks-ai-deployment) by Mike Privette
+
+[Shared responsibilities and shared fate on Google Cloud](https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate) by Google
+
+[Shared responsibility in the cloud](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility) by Microsoft
+
+[Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/) by Amazon Web Services
+
 ## Threat and risk management models
 
 [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) by the National Institute of Standards and Technology (NIST), U.S. Department of Commerce
