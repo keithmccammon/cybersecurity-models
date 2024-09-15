@@ -40,6 +40,10 @@ A collection of models for organizing, prioritizing, and understanding cybersecu
 
 [Detection Engineering Maturity Model](https://detectionengineering.io/) by Kyle Bailey
 
+[Essential Eight Maturity Model](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight/essential-eight-maturity-model) by the Australian Signals Directorate (ASD)
+
+[Red Team Maturity Model (RTCMM)](https://www.redteammaturity.com/) by Brent Harrell and Garet Stroup
+
 [Security Incident Management Maturity Model](https://opencsirt.org/csirt-maturity/sim3-and-references/), by the Open CSIRT Foundation
 
 [Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model) by the Cybersecurity & Infrastructure Security Agency (CISA)
@@ -56,9 +60,11 @@ A collection of models for organizing, prioritizing, and understanding cybersecu
 
 [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/) by Amazon Web Services
 
-## Threat and risk management models
+## Threat, risk, resilience and other management models
 
 [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) by the National Institute of Standards and Technology (NIST), U.S. Department of Commerce
+
+[CERT Resilience Management Model](https://insights.sei.cmu.edu/library/cert-resilience-management-model-cert-rmm-version-12/) by Carnegie Mellon University
 
 [FAIR Risk Management](https://www.fairinstitute.org/fair-risk-management) by the FAIR Institute
 
