@@ -73,3 +73,5 @@ A collection of models for organizing, prioritizing, and understanding cybersecu
 [Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf) by the National Institute of Standards and Technology (NIST), U.S. Department of Commerce
 
 [Threat Assessment and Remediation Analysis (TARA)](https://www.mitre.org/news-insights/publication/threat-assessment-and-remediation-analysis-tara) by the MITRE Corporation
+
+[Process for Attack Simulation and Threat Analysis (PASTA)](https://versprite.com/blog/what-is-pasta-threat-modeling/) by VerSprite
