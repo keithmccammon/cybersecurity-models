@@ -66,6 +66,8 @@ A collection of models for organizing, prioritizing, and understanding cybersecu
 
 [CERT Resilience Management Model](https://insights.sei.cmu.edu/library/cert-resilience-management-model-cert-rmm-version-12/) by Carnegie Mellon University
 
+[DIE Triad](https://youtu.be/VaE3jLPB4zU) by Sounil Yu
+
 [FAIR Risk Management](https://www.fairinstitute.org/fair-risk-management) by the FAIR Institute
 
 [OCTAVE](https://insights.sei.cmu.edu/library/operationally-critical-threat-asset-and-vulnerability-evaluation-octave-framework-version-10/) by Carnegie Mellon University
