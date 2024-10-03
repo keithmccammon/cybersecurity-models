@@ -10,8 +10,6 @@ A collection of models for organizing, prioritizing, and understanding cybersecu
 
 ## Intrusion and/or adversary analysis models
 
-[AI Risk Repository](https://airisk.mit.edu/) by MIT
-
 [ATLAS](https://atlas.mitre.org/) by the MITRE Corporation
 
 [ATT&CK](https://attack.mitre.org/) by the MITRE Corporation
@@ -21,6 +19,8 @@ A collection of models for organizing, prioritizing, and understanding cybersecu
 [D3FEND](https://d3fend.mitre.org/) by the MITRE Corporation 
 
 [Diamond Model](https://apps.dtic.mil/sti/pdfs/ADA586960.pdf) by the United States Department of Defense (DoD)
+
+[GenAI Attacks Matrix](https://ttps.ai/)
 
 [SaaS Attacks](https://github.com/pushsecurity/saas-attacks) by Push Security
  
@@ -63,6 +63,8 @@ A collection of models for organizing, prioritizing, and understanding cybersecu
 ## Threat, risk, resilience and other management models
 
 [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) by the National Institute of Standards and Technology (NIST), U.S. Department of Commerce
+
+[AI Risk Repository](https://airisk.mit.edu/) by MIT
 
 [CERT Resilience Management Model](https://insights.sei.cmu.edu/library/cert-resilience-management-model-cert-rmm-version-12/) by Carnegie Mellon University
 
