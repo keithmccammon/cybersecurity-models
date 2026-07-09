@@ -54,6 +54,8 @@ A collection of models for organizing, prioritizing, and understanding cybersecu
 
 [AI Security Shared Responsibility Model](https://www.returnonsecurity.com/p/ai-security-shared-responsibility-model-navigating-risks-ai-deployment) by Mike Privette
 
+[AI Shared Responsibility Framework, V1.0](https://www.coalitionforsecureai.org/wp-content/uploads/2026/05/CoSAI-Shared-Responsibility-Framework.pdf) by the Coalition for Secure AI
+
 [Shared responsibilities and shared fate on Google Cloud](https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate) by Google
 
 [Shared responsibility in the cloud](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility) by Microsoft
